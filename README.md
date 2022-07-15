@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://condition-badge.herokuapp.com/?name=ogty&max=10000&current=999&flash=True" width="50%" />
+  <img src="https://condition-badge.herokuapp.com/?name=ogty&max=10000&current=1&flash=True" width="50%" />
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ogty&bg_color=00000000&hide_border=true&color=777777&line=777777&point=777777" />
